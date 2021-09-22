@@ -6,10 +6,12 @@ body{
 }
 
 h2{
+    font-family: 'Spicy Rice', cursive;
     text-align: center;
 }
 
 p{
+    font-family: 'Lato', sans-serif;
     text-align: center;
 }
 
@@ -23,6 +25,7 @@ a:hover{
 }
 
 .he {
+    font-family: 'Spicy Rice', cursive;
     margin: 0;
     background: #80B881;
     color: #375C37;
