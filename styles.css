@@ -1,9 +1,13 @@
 body{
     margin: 0;
-    background: #80B881;
-    text-align: center;
+    background:white;
+    color: #415A41;
 }
-.body2{
+
+he {
     margin: 0;
-    background: #557055;
+    background: #80B881;
+    color: #415A41;
+    text-align: center;
+
 }
