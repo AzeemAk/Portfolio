@@ -1,5 +1,9 @@
 body{
     margin: 0;
-    background: lightblue;
+    background: #80B881;
     text-align: center;
+}
+body2{
+    margin: 0;
+    background: #557055;
 }
