@@ -6,10 +6,12 @@ body{
 }
 
 h2{
+    font-family: 'Spicy Rice', cursive;
     text-align: center;
 }
 
 p{
+    font-family: 'Lato', sans-serif;
     text-align: center;
 }
 
@@ -23,6 +25,7 @@ a:hover{
 }
 
 .he {
+    font-family: 'Spicy Rice', cursive;
     margin: 0;
     background: #80B881;
     color: #375C37;
@@ -35,9 +38,11 @@ a:hover{
 .image-cropper {
     width: 300px;
     height: 300px;
-    position: relative;
+    align-items: center;
     overflow: hidden;
     border-radius: 50%;
+    padding-top: 40px;
+    padding-bottom: 40px;
     
   }
   
@@ -46,6 +51,5 @@ a:hover{
     margin: 0 auto;
     height: 100%;
     width: auto;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    
   }
