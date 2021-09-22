@@ -13,10 +13,16 @@ p{
     text-align: center;
 }
 
+a{
+    text-align: center;
+}
+
 .he {
     margin: 0;
     background: #80B881;
     color: #375C37;
     text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 
 }
